@@ -13,5 +13,11 @@
   },
   "chain": {
     "workers": 4
+  },
+  "proof-of-work": {
+    "size": 18874368,
+    "n": 11,
+    "complexity": 17,
+    "interval": 3000
   }
 }
