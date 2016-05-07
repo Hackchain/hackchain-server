@@ -1,4 +1,5 @@
 # Hackchain-server
+[![NPM version](https://badge.fury.io/js/hackchain-server.svg)](http://badge.fury.io/js/hackchain-server)
 
 A server for [hackchain][0].
 
