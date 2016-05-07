@@ -1,0 +1,17 @@
+{
+  "port": 1443,
+  "host": "127.0.0.1",
+  "ssl": {
+    "cert": "./examples/keys/cert.pem",
+    "key": "./examples/keys/key.pem"
+  },
+  "db": "/tmp/hackchain-dev-db",
+  "pool": {
+    "size": 1024,
+    "interval": 3000,
+    "coinbaseInterval": 60000
+  },
+  "chain": {
+    "workers": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "hackchain-server",
+  "version": "1.0.0",
+  "description": "Server for hackchain",
+  "main": "lib/server.js",
+  "bin": "bin/hc-server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackchain/hackchain-server.git"
+  },
+  "keywords": [
+    "hackchain",
+    "blockchain",
+    "game",
+    "hack"
+  ],
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hackchain/hackchain-server/issues"
+  },
+  "homepage": "https://github.com/Hackchain/hackchain-server#readme",
+  "dependencies": {
+    "hackchain-core": "^1.0.5",
+    "leveldown": "^1.4.6",
+    "obuf": "^1.1.1",
+    "wbuf": "^1.7.1",
+    "yargs": "^4.7.0"
+  }
+}
