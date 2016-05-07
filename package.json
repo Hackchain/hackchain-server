@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Server for hackchain",
   "main": "lib/server.js",
-  "bin": "bin/hc-server",
+  "bin": {
+    "hc-sesrver": "bin/hc-server"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
