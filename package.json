@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/Hackchain/hackchain-server#readme",
   "dependencies": {
-    "hackchain-core": "^1.0.5",
+    "hackchain-core": "^2.0.0",
     "leveldown": "^1.4.6",
     "obuf": "^1.1.1",
     "wbuf": "^1.7.1",
