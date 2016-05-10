@@ -1,6 +1,6 @@
 {
   "name": "hackchain-server",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Server for hackchain",
   "main": "lib/server.js",
   "bin": {
